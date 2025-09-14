@@ -1,0 +1,5 @@
+   pandas
+   numpy
+   matplotlib
+   bokeh
+   sqlite3
